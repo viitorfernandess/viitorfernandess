@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vitor Azevedo Fernandes
 
-<!--
-**viitorfernandess/viitorfernandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend focado em Node.js, com experiência na construção de APIs REST e integração com banco de dados PostgreSQL.
 
-Here are some ideas to get you started:
+## Tecnologias
+- Node.js
+- Express
+- PostgreSQL
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência prática
+- Desenvolvimento de APIs REST 
+- Organização de código em camadas 
+- Manipulação e transformação de dados utilizando JavaScript 
+- Integração com banco de dados PostgreSQL
+
+## Projetos
+- API de Produtos
+- API de Autenticação
+- Sistema de pedidos
+
+## Contato
+LinkedIn: https://www.linkedin.com/in/vitor-azevedo-fernandes/
