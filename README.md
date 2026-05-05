@@ -14,10 +14,5 @@ Desenvolvedor backend focado em Node.js, com experiência na construção de API
 - Manipulação e transformação de dados utilizando JavaScript 
 - Integração com banco de dados PostgreSQL
 
-## Projetos
-- API de Produtos
-- API de Autenticação
-- Sistema de pedidos
-
 ## Contato
 LinkedIn: https://www.linkedin.com/in/vitor-azevedo-fernandes/
